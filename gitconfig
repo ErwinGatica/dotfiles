@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = erwin.gmanz@gmail.com
+	name = Erwin Gatica
